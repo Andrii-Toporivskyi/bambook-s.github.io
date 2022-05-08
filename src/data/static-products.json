@@ -1,0 +1,30 @@
+[
+    {
+        "id": 0,
+        "name": "Палички",
+        "price": 5,
+        "count": 0,
+        "isStatic": true
+    },
+    {
+        "id": 0,
+        "name": "Соєвий соус",
+        "price": 5,
+        "count": 0,
+        "isStatic": true
+    },
+    {
+        "id": 0,
+        "name": "Імбир",
+        "price": 5,
+        "count": 0,
+        "isStatic": true
+    },
+    {
+        "id": 0,
+        "name": "Васабі",
+        "price": 5,
+        "count": 0,
+        "isStatic": true
+    }
+]
